@@ -1,0 +1,94 @@
+
+# -----------------------------------------------------------------------------
+# Volt MX / Iris auto generated artifacts
+# -----------------------------------------------------------------------------
+# Auto-generated JavaScript living at the project root. Keep the custom libs.
+jssrc/
+!/resources/customlibs/jsSrc
+
+# Packaged binaries (APK, KAR, etc.)
+binaries/
+
+# Framework generated source, configs, and i18n assets
+middleware.properties
+modules/voltmx_sdk.js
+modules/VoltmxSyncLib.js
+resources/i18n/
+velocity.log
+.tern-project
+
+# Controller action shims (recreated by the tooling)
+/controllers/**/*ControllerActions.js
+/userwidgets/**/modules/require/*ControllerActions.js
+
+# Auto-generated Jasmine specs
+testresources/Jasmine/*.js
+
+# IQ Cop reports
+reports/
+
+
+# -----------------------------------------------------------------------------
+# Cordova / Nitro build output
+# -----------------------------------------------------------------------------
+cordovatemp/
+web/cordova/platforms/
+web/cordova/plugins/
+web/cordova/www/
+web/cordova/build/
+web/cordova/node_modules/
+web/cordova/package-lock.json
+
+
+# -----------------------------------------------------------------------------
+# Node & package manager noise
+# -----------------------------------------------------------------------------
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+npm-debug.log*
+*.tsbuildinfo
+
+
+# -----------------------------------------------------------------------------
+# Build products & coverage
+# -----------------------------------------------------------------------------
+dist/
+build/
+coverage/
+*.log
+*.tmp
+*.bak
+
+
+# -----------------------------------------------------------------------------
+# OS / IDE specific files
+# -----------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*~
+
+
+# -----------------------------------------------------------------------------
+# Optional: resources/customlibs regeneration
+# (Uncomment if you prefer Visualizer to recreate these files)
+# -----------------------------------------------------------------------------
+# resources/customlibs/sdkplugin.properties
+# resources/customlibs/lib/android/
+# resources/customlibs/lib/tabrcandroid/
+# resources/customlibs/lib/iphone/
+# resources/customlibs/lib/ipad/
+# resources/customlibs/lib/windows10/
+# resources/customlibs/lib/winphone10/
+# resources/mobile/native/android/values/widgetids.xml
+# resources/tablet/native/androidtab/values/widgetids.xml
