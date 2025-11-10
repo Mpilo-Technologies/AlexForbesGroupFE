@@ -1,0 +1,16 @@
+{
+    "dependencies": [
+        {
+            "name": "PolicyAdminMA"
+        },
+        {
+            "name": "LeadsMA"
+        },
+        {
+            "name": "AuthenticationMA"
+        },
+        {
+            "name": "ClaimsMA"
+        }
+    ]
+}
