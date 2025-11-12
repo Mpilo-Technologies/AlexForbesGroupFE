@@ -7,7 +7,7 @@
   },
   "background_color": "00000000",
   "bg_type": "one",
-  "border_color": "dededeff",
+  "border_color": "000000ff",
   "border_style": "plain",
   "border_type": 0,
   "border_width": 0,
@@ -20,11 +20,11 @@
   "iphone": {
     "font_name": "System"
   },
-  "isDefaultSkin": false,
+  "isDefaultSkin": true,
   "kiosk": {
     "font_name": "Helvetica"
   },
-  "kuid": "s3e5710acc0b4ed8b88f0e87a67ea5ea",
+  "kuid": "s3b39c4de0794977a737952fff5668f1",
   "nativemac": {
     "font_name": "Helvetica"
   },
