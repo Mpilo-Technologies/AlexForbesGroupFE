@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "27dp"
     },
     "_margin_": [
         0,
@@ -30,7 +30,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "86.26%"
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -44,24 +44,18 @@
     "disabledSkins": {
         "blockedUISkin": "defTextBoxBlockedUI"
     },
-    "focusskin": "s6ded02487524c2192f8a4d0e33ca0dd",
+    "focusskin": "s92f3a1d0e83440a98a5cd69ef64658f",
     "id": "txtSearch",
     "info": null,
-    "iphone": {
-        "psp": {
-            "leftViewImage": "search.png"
-        }
-    },
     "iscustomlayout": false,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "haf9a076d8074e3bac53a8f726c20c9a",
-    "leftviewimage": "search.png",
+    "kuid": "ca235fd2c2534095b4e4559b522f2660",
     "mode": "A",
     "name": "kony.ui.TextBox2",
-    "parent": "flxSearchBarMain",
+    "parent": "alexforbesSearchBar",
     "pf": "userwidgetmodel",
-    "placeholderskin": "scdcb81acb0842ff8a9613d276ed1e08",
+    "placeholderskin": "s1d1e6e570f842f2b4954cca434fd1a0",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

@@ -7,18 +7,18 @@
   },
   "background_color": "ffffffff",
   "bg_type": "one",
-  "border_color": "ffffffff",
-  "border_radius": 30,
+  "border_color": "666666ff",
+  "border_radius": 2,
   "border_style": "custom",
   "border_type": 0,
   "border_width": 1,
   "desktopweb": {
     "font_name": "Helvetica"
   },
-  "font_color": "333333ff",
+  "font_color": "00000099",
   "font_name": "iphoneSystem",
   "font_size": 107,
-  "font_style": "normal",
+  "font_style": "italic",
   "font_weight": "400",
   "ipad": {
     "font_name": "System"
@@ -26,11 +26,11 @@
   "iphone": {
     "font_name": "System"
   },
-  "isDefaultSkin": false,
+  "isDefaultSkin": true,
   "kiosk": {
     "font_name": "Helvetica"
   },
-  "kuid": "sdf611acbdf54a6886d91f2277cfe782",
+  "kuid": "s552403ea99b4d2da225f272f0eea12a",
   "nativemac": {
     "font_name": "Helvetica"
   },

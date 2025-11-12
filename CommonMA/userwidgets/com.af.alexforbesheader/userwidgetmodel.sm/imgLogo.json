@@ -4,11 +4,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "70dp"
+        "value": "51dp"
     },
     "_left_": {
         "type": "string",
-        "value": "-4dp"
+        "value": "0"
     },
     "_margin_": [
         0,
@@ -22,24 +22,24 @@
         0,
         0
     ],
-    "_skin_": "s8b4053b2c4946adb20a45460a73046a",
+    "_skin_": "s5234e52eabf43c7b9742a5cdc735642",
     "_src_": "af_logo_transparent.png",
     "_top_": {
         "type": "string",
-        "value": "-12dp"
+        "value": "0"
     },
     "_width_": {
         "type": "string",
-        "value": "127dp"
+        "value": "140dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "id": "Image0ef1f6003ecff4c",
+    "id": "imgLogo",
     "imagescalemode": 1,
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b133a0a1d6c24496b0d4aa76ef64091f",
+    "kuid": "cf7360014a9e4adab666fb70e9b73012",
     "name": "kony.ui.Image2",
     "parent": "flxHeaderMain",
     "pf": "userwidgetmodel",

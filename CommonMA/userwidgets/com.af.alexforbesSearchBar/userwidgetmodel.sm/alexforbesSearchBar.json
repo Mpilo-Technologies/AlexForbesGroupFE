@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "8.08%"
+        "value": "6.42%"
     },
     "_left_": {
         "type": "string",
@@ -22,7 +22,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s4d6ab8de06747719407c12f1dd52cab",
+    "_skin_": "s3b39c4de0794977a737952fff5668f1",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -35,7 +35,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxSearchBarMain"
+        "txtSearch",
+        "imgSearch"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -43,12 +44,12 @@
         "blockedUISkin": "slFBlockedUIbox"
     },
     "enablescrolling": true,
-    "focusskin": "s8139fc423ed40f58d53861c938f62c1",
+    "focusskin": "sc62ec8e1fee4da79c5dcc5b2e96ffce",
     "id": "alexforbesSearchBar",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "g5e1b703188b436d9749d9e1d6070ac0",
+    "kuid": "f958f51ab7bd404686d6ddc5118df082",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "userwidgetmodel",

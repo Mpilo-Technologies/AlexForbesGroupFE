@@ -4,11 +4,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "21dp"
+        "value": "33dp"
     },
     "_left_": {
         "type": "string",
-        "value": "325dp"
+        "value": "324dp"
     },
     "_margin_": [
         0,
@@ -22,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "s8b4053b2c4946adb20a45460a73046a",
+    "_skin_": "s5234e52eabf43c7b9742a5cdc735642",
     "_src_": "search.png",
     "_top_": {
         "type": "string",
-        "value": "12dp"
+        "value": "8dp"
     },
     "_width_": {
         "type": "string",
-        "value": "27dp"
+        "value": "30dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -39,9 +39,9 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c37a6ec4427040799e82f08669fc2714",
+    "kuid": "e059abb24c2f4e73a8294e036664c7ef",
     "name": "kony.ui.Image2",
-    "parent": "flxSearchBarMain",
+    "parent": "alexforbesSearchBar",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
