@@ -32,20 +32,24 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "alexforbesheader"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "Form1Controller"
+            "name": "frmDashboardController"
         }
     },
+    "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
+    "device": "iPhone14",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Form1",
+    "id": "frmDashboard",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -96,6 +100,9 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhone14",
+    "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,

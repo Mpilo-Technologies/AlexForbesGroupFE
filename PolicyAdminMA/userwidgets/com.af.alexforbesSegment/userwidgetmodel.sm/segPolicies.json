@@ -1,0 +1,557 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "lblCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Teboho Motlautsi"
+            },
+            "lblPolicyNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P-458921"
+            },
+            "lblProduct": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Auto-Insurance"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            }
+        },
+        {
+            "lblCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Teboho Motlautsi"
+            },
+            "lblPolicyNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P-458921"
+            },
+            "lblProduct": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Auto-Insurance"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            }
+        },
+        {
+            "lblCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Teboho Motlautsi"
+            },
+            "lblPolicyNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P-458921"
+            },
+            "lblProduct": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Auto-Insurance"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            }
+        },
+        {
+            "lblCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Teboho Motlautsi"
+            },
+            "lblPolicyNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P-458921"
+            },
+            "lblProduct": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Auto-Insurance"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            }
+        },
+        {
+            "lblCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Teboho Motlautsi"
+            },
+            "lblPolicyNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P-458921"
+            },
+            "lblProduct": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Auto-Insurance"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            }
+        },
+        {
+            "lblCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Teboho Motlautsi"
+            },
+            "lblPolicyNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P-458921"
+            },
+            "lblProduct": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Auto-Insurance"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            }
+        },
+        {
+            "lblCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Teboho Motlautsi"
+            },
+            "lblPolicyNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P-458921"
+            },
+            "lblProduct": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Auto-Insurance"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            }
+        },
+        {
+            "lblCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Teboho Motlautsi"
+            },
+            "lblPolicyNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P-458921"
+            },
+            "lblProduct": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Auto-Insurance"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            }
+        },
+        {
+            "lblCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Teboho Motlautsi"
+            },
+            "lblPolicyNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P-458921"
+            },
+            "lblProduct": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Auto-Insurance"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            }
+        },
+        {
+            "lblCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Teboho Motlautsi"
+            },
+            "lblPolicyNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "P-458921"
+            },
+            "lblProduct": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Auto-Insurance"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Active"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": true,
+    "hasSections": false,
+    "id": "segPolicies",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u06f5f8f19544bb7bc53a51680c89282",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "lblCustomer": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Teboho Motlautsi"
+                },
+                "lblPolicyNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "P-458921"
+                },
+                "lblProduct": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Auto-Insurance"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Active"
+                }
+            },
+            {
+                "lblCustomer": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Teboho Motlautsi"
+                },
+                "lblPolicyNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "P-458921"
+                },
+                "lblProduct": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Auto-Insurance"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Active"
+                }
+            },
+            {
+                "lblCustomer": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Teboho Motlautsi"
+                },
+                "lblPolicyNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "P-458921"
+                },
+                "lblProduct": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Auto-Insurance"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Active"
+                }
+            },
+            {
+                "lblCustomer": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Teboho Motlautsi"
+                },
+                "lblPolicyNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "P-458921"
+                },
+                "lblProduct": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Auto-Insurance"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Active"
+                }
+            },
+            {
+                "lblCustomer": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Teboho Motlautsi"
+                },
+                "lblPolicyNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "P-458921"
+                },
+                "lblProduct": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Auto-Insurance"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Active"
+                }
+            },
+            {
+                "lblCustomer": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Teboho Motlautsi"
+                },
+                "lblPolicyNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "P-458921"
+                },
+                "lblProduct": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Auto-Insurance"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Active"
+                }
+            },
+            {
+                "lblCustomer": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Teboho Motlautsi"
+                },
+                "lblPolicyNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "P-458921"
+                },
+                "lblProduct": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Auto-Insurance"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Active"
+                }
+            },
+            {
+                "lblCustomer": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Teboho Motlautsi"
+                },
+                "lblPolicyNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "P-458921"
+                },
+                "lblProduct": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Auto-Insurance"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Active"
+                }
+            },
+            {
+                "lblCustomer": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Teboho Motlautsi"
+                },
+                "lblPolicyNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "P-458921"
+                },
+                "lblProduct": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Auto-Insurance"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Active"
+                }
+            },
+            {
+                "lblCustomer": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Teboho Motlautsi"
+                },
+                "lblPolicyNumber": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "P-458921"
+                },
+                "lblProduct": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Auto-Insurance"
+                },
+                "lblStrip": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblTime": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Active"
+                }
+            }
+        ],
+        "rowTemplateId": "abf28b4d8fd84e9e9123fbd795e6574c",
+        "rowtemplate": "flxRowPolicy",
+        "widgetdatamap": {
+            "flxRowPolicy": "flxRowPolicy",
+            "flxStatus": "flxStatus",
+            "lblCustomer": "lblCustomer",
+            "lblPolicyNumber": "lblPolicyNumber",
+            "lblProduct": "lblProduct",
+            "lblStrip": "lblStrip",
+            "lblTime": "lblTime"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxScrollSegPolicies",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 9,
+    "rowfocusskin": "sd014b6bbda04db9ac7249424b2c683e",
+    "rowskin": "s4d32bc0001043669539fcfa4ac215ff",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sc57d49fab374826a0261f0ef617b443",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa64",
+    "separatorrequired": true,
+    "separatorthickness": 20,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxRowPolicy": "flxRowPolicy",
+        "flxStatus": "flxStatus",
+        "lblCustomer": "lblCustomer",
+        "lblPolicyNumber": "lblPolicyNumber",
+        "lblProduct": "lblProduct",
+        "lblStrip": "lblStrip",
+        "lblTime": "lblTime"
+    }
+}
