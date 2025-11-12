@@ -89,6 +89,135 @@
     "applepushfunc": "None",
     "apploadeventkey": "None",
     "applogokey": "",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "i0d93a2456a34deb8841e5caf540e863",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "ac70a12f7fd54581bb9c00c64d8a3679",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "b975520ebec9460cb78ce2dc16aed635",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "f15e93e9103e460a8a21e39948be9040",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusSkin": null,
+        "focusskin": null,
+        "mobile": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "aeba04d1b0cc40cb86a5fa551d6e1644",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "a5a8f0e568384329947f00ecf84d7c0e",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "j1de1f9aafd44bb28ba27eaa7558ed4f",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "f7ae43755ba241fa9a5bbb7399f3653d",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "skin": null,
+        "tablet": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "f9238888e128401e83439e1214cc9f79",
+                    "title": "Item 1",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "g85c7198391440c7b63fd803280390ea",
+                    "title": "Item 2",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "g25018a55adc489ca473650ac860a7ed",
+                    "title": "Item 3",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "dce9a7b416d0435eba1a109ffd50b300",
+                    "title": "Item 4",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                }
+            ]
+        }
+    },
     "appnamekey": "AuthenticationMA",
     "appointments": "false",
     "apppackagekey": "com.orgname.AuthenticationMA",
@@ -129,11 +258,11 @@
     "cordovaModified": false,
     "createdVizVersion": "9.5.30",
     "createdgaversion": "9.5.30",
-    "currentgaversion": "9.5.30",
+    "currentgaversion": "10.0.2",
     "deeplinkkey": "None",
     "defaultZIndex": "1",
     "defaultlocalekey": "",
-    "defaulttheme": "defaultTheme",
+    "defaulttheme": "classicTheme",
     "desktopwebaligenmentoption": "left",
     "desktopwebbasefontsize": "16",
     "desktopwebfavico": "",
@@ -234,7 +363,7 @@
     "keyAliasandwear": "",
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
-    "konyVizVersion": "9.5.30",
+    "konyVizVersion": "10.0.2",
     "lastmodifiedtime": "1762773133181",
     "location": "false",
     "mangoapptitlekey": ",,,,,,",
@@ -504,7 +633,7 @@
     "previewshowpassword": "false",
     "privateNetworkClientServer": "false",
     "project.type": "js",
-    "project_version": "sprint45",
+    "project_version": "sprint47",
     "protectedmodeenabled_android": "false",
     "protectedmodeenabled_androidwear": "false",
     "protectedmodeenabled_ios": "false",
@@ -513,9 +642,11 @@
     "read_device_identifying_information": "false",
     "referenceWidth": "375",
     "registerForDeepLink": {
+        "androidwear": false,
         "desktop": false,
         "mobile": false,
-        "tablet": false
+        "tablet": false,
+        "watch": false
     },
     "remoteSystem": "false",
     "removableStorage": "false",
@@ -543,6 +674,7 @@
     "support64bitandwear": "false",
     "supportX86Devices": "false",
     "supportX86Devicesandwear": "false",
+    "swiftversionkey": "4.0",
     "tags": {
         "android": {
             "activity_child_tags": "",
@@ -624,6 +756,7 @@
     "watchos_notificationcentericon_42": "",
     "watchos_shortlooknotificationicon_38": "",
     "watchos_shortlooknotificationicon_42": "",
+    "watchos_target_versionkey": "4.0",
     "watchos_watchMarketing1x": "",
     "webLibraryMode": "css",
     "webcam": "false",
