@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "30.00%"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s44ec3c831994bb08d8f0de84bcf7864",
+    "_text_": "Teboho Motlautsi",
+    "_top_": {
+        "type": "string",
+        "value": "42%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "maxNumberOfLines": 3,
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "textTruncatePosition": 0
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "lblCustomer",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "maxNumberOfLines": 3,
+        "psp": {
+            "wrapping": 2
+        },
+        "textTruncatePosition": 0
+    },
+    "isvisible": true,
+    "kuid": "ac5197ba63bf46ba9ad1d20b5daab453",
+    "maxnumberoflines": 3,
+    "maxwidth": {
+        "type": "string",
+        "value": "70%"
+    },
+    "name": "kony.ui.Label",
+    "parent": "flxRowPolicy",
+    "pf": "segRowTemplatePolicies",
+    "textstyle": {},
+    "texttruncateposition": 0,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}
